@@ -1,4 +1,4 @@
-![grab-landing-page](https://github.com/PranavGundu1729/PranavGundu1729/blob/main/your_cool_intro.gif)
+![grab-landing-page](https://github.com/PranavGundu1729/PranavGundu1729/blob/main/name.gif)
 <h3 align="center">A 8th grader from Massachusetts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgundu1729&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgundu1729" /> </p>
