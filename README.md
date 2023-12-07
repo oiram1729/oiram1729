@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [My Projects](https://github.com/PranavGundu1729)
 
-- 📫 How to reach me **pranav.gundu@protonmail.com**
+- 📫 How to reach me [My Email](pranav.gundu@protonmail.com)
 
-- ⚡ Fun fact **I can solve a rubiks cube**
+- ⚡ Fun fact **I learned to program in C++ in 4th Grade**
 
 <p align="left">
 </p>
