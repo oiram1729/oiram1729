@@ -1,5 +1,5 @@
 ![grab-landing-page](https://github.com/PranavGundu1729/PranavGundu1729/blob/main/name.gif)
-<h3 align="center">A 8th grader from Massachusetts</h3>
+<h3 align="center">An 8th grader from Massachusetts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavgundu1729&label=Profile%20views&color=0e75b6&style=flat" alt="pranavgundu1729" /> </p>
 
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I can solve a rubiks cube**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
