@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranavGundu1729](https://github.com/PranavGundu1729)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/PranavGundu1729)
 
 - 📫 How to reach me **pranav.gundu@protonmail.com**
 
