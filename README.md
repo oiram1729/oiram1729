@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Tensorflow, Python, Game Development**
 - 📫 How to reach me **pranav.gundu@protonmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/PranavGundu1729?tab=repositories**
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/PranavGundu1729?tab=repositories)
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
 
 <div> <a href="https://github.com/PranavGundu1729" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
