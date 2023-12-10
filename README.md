@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavGundu1729&label=Profile%20views&color=0e75b6&style=flat" alt="PranavGundu1729" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavGundu1729&theme=onedark" alt="PranavGundu1729" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavGundu1729&theme=dark_lover" alt="PranavGundu1729" /></a> </p>
 
 - 🔭 I’m currently working on [Drone Planter](https://github.com/PranavGundu1729/Drone-Planter)
 - 🌱 I’m currently learning **Java**
