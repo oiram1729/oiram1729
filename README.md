@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Drone Planter](https://github.com/PranavGundu1729/Drone-Planter)
 - 🌱 I’m currently learning **Java**
-- 💬 Ask me about **Tensorflow, Python, Game Development**
+- 💬 Ask me about **Tensorflow, Python, Game Development, Robotics**
 - 📫 How to reach me **pranav.gundu@protonmail.com**
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/PranavGundu1729?tab=repositories)
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
