@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavGundu1729&theme=dark_lover" alt="PranavGundu1729" /></a> </p>
 
-- 🔭 I’m currently working on [Drone Planter](https://github.com/PranavGundu1729/Drone-Planter)
+- 🔭 I’m currently working on [FTC Centerstage Robot Controller](https://github.com/PranavGundu1729/FTC-Centerstage-Robot-Controller)
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
 - 📫 How to reach me **pranav.gundu@protonmail.com**
