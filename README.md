@@ -1,17 +1,17 @@
-![name](https://github.com/PranavGundu1729/PranavGundu1729/blob/main/name%20v4.gif)
+![name](https://github.com/oiram1729/oiram1729/blob/main/name%20v4.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PranavGundu1729&label=Profile%20views&color=0e75b6&style=flat" alt="PranavGundu1729" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oiram1729&label=Profile%20views&color=0e75b6&style=flat" alt="oiram1729" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavGundu1729&theme=dark_lover" alt="PranavGundu1729" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oiram1729&theme=dark_lover" alt="oiram1729" /></a> </p>
 
-- 🔭 I’m currently working on [FTC Centerstage Robot Controller](https://github.com/PranavGundu1729/FTC-Centerstage-Robot-Controller)
+- 🔭 I’m currently working on [FTC Centerstage Robot Controller](https://github.com/oiram1729/FTC-Centerstage-Robot-Controller)
 - 🌱 I’m currently learning **Java**
 - 💬 Ask me about **Tensorflow, Python, Game Development, Robotics, Gaming**
 - 📫 How to reach me **pranav.gundu@protonmail.com**
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/PranavGundu1729?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/oiram1729?tab=repositories)
 - ⚡ Fun fact **I can solve a 6 x 6 rubiks cube**
 
-<div> <a href="https://github.com/PranavGundu1729" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/oiram1729" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:pranav.gundu@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -31,22 +31,22 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavGundu1729&langs_count=8&theme=dark" alt=PranavGundu1729 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiram1729&langs_count=8&theme=dark" alt=oiram1729 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=PranavGundu1729&show_icons=true&locale=en&theme=dark" alt="PranavGundu1729" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=oiram1729&show_icons=true&locale=en&theme=dark" alt="oiram1729" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PranavGundu1729&theme=dark" alt="PranavGundu1729" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=oiram1729&theme=dark" alt="oiram1729" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/PranavGundu1729">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PranavGundu1729&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PranavGundu1729&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PranavGundu1729&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PranavGundu1729&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PranavGundu1729&theme=dark" height="180em" />
+<a href="https://github.com/oiram1729">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oiram1729&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oiram1729&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oiram1729&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oiram1729&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oiram1729&theme=dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PranavGundu1729&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=oiram1729&theme=react-dark"/>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/PranavGundu1729?theme=auto&font=&extension=activity)
