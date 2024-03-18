@@ -1,4 +1,4 @@
-![name](https://github.com/zedaes/zedaes/blob/main/name%20v4.gif)
+![name](https://github.com/zedaes/zedaes/blob/main/zedaes.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zedaes&label=Profile%20views&color=0e75b6&style=flat" alt="zedaes" /> </p>
 
